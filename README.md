@@ -251,7 +251,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f1bb968d-24a2-4863-a42b-6e22666714c8)
 
-45. Visual Studio >> "Menü" Bölümündeki "Baklagil Paneli Butonu"na Tıklanarak "BaklagilPanel" Sayfasına Doğrudan Geçilebilir
+45. Visual Studio >> "Menü" Bölümündeki "Baklagil Paneli Butonu"na Tıklanarak "BaklagilPanel" Sayfasına Doğrudan Geçilebilir       
 ("KasiyerPanel" Sayfasındaki "Baklagil Paneli Butonu"na Basılarak da "BaklagilPanel" Sayfasına Geçilebilir)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3eb6122b-f3ab-49ba-93fe-098a1232113a)
