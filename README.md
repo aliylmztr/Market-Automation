@@ -85,43 +85,45 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 17. Visual Studio >> İlgili Bölümler Doldurulduktan Sonra "Kayıt Ekle" Butonuna Basılarak "KullanıcıPanel"e Yeni Kayıt Eklenmesi
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/eaa723b5-ce19-42d7-8554-b89b1c1399fc)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/476e5d0e-e803-4e13-8951-c51a4886a220)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/59c32978-441f-4a8f-9993-e7c1f230186c)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/d5a876f8-ab38-4f7f-87f3-72ce90857d3f)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f3395375-4ac2-4b5c-ae41-f920772493a7)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/bdaa1fbe-08c7-48dc-a4f4-e71405ca8a64)
 
 18. Microsoft SQL Server Management Studio >> "loginTable" Tablosunun Güncel Durumu
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/d5f0d9c4-957f-4c8b-a50d-73b1f983b455)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/607befcb-1174-482a-ba6f-3fffb50fb6c2)
 
 19. Visual Studio >> Seçilen Veride Güncellenmek İstenen Bölümlerin Değiştirilmesi ve "Kayıt Güncelle" Butonuna Basılarak Kayıt Güncellemesinin Yapılması
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/76d79ab4-9033-4b92-8566-98fc86bd96ab)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/50bf8197-2c19-4f30-adf4-b55f4184c327)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/ab72ad55-0a45-4739-8c54-e7870b480b93)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/0ac1343b-5a79-4b6b-b3c3-e867af85ff12)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b281c1ab-e8e0-4fc3-b5c1-1d41cda7e3f5)
 
 20. Microsoft SQL Server Management Studio >> "loginTable" Tablosunun Güncel Durumu
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/42160bd1-9a5c-409c-b5bf-31e5e5ccab03)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c8a60fda-15b0-42b5-b322-11d6d04ac95a)
 
 21. Visual Studio >> Silinmek İstenen Verinin Seçilmesi ve "Kayıt Sil" Butonuna Basılarak Silinmesi
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/90d584d5-effe-4cd0-b24f-771994259169)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/ad55f3ae-80e9-4341-9e60-96a550a3915a)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/8c00975e-949c-40d7-aebf-3c5af94146ee)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3ae97dc6-139e-4285-9697-b71e46d3d21e)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f5fa2b7a-bf20-48f2-b339-e64ef88ee641)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/9d94d946-886f-4699-9313-cf9c077009bf)
 
 22. Microsoft SQL Server Management Studio >> "loginTable" Tablosunun Güncel Durumu
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/40de3aee-9a94-4163-bc02-6fc5eb373131)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/a199eb24-d3ba-42f7-b43c-fa9c4616612d)
 
 23. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "AdminPanel" Sayfasına Geri Gidilmesi
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/76de520c-9fe2-4156-a9f2-cd242c6948b0)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/2317ee50-d214-4140-b192-24e09bc72350)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/20f4ef1e-073e-4673-abd9-6695d083b4d7)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/ff713dad-c670-4e8f-9f26-cc9a418ece74)
 
 24. Visual Studio >> "Ürün Paneli Butonu"na Basılarak "UrunPanel" Sayfasına Geçilmesi
 
