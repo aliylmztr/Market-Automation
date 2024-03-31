@@ -169,7 +169,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 31. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "AdminPanel" Sayfasına Geri Gidilmesi
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b85e3ece-0d52-495c-a44c-31e6c89c3e46)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/15a0e2b1-9ace-4f57-a151-72cbccaf0e03)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/de3f5b92-6fec-4ddd-8854-8f64ad5185bb)
 
