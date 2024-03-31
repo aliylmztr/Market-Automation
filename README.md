@@ -25,7 +25,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/e02bebc4-2a55-4c77-9672-2748b7b8957f)
 
-6. Visual Studio >> Şifremi Unuttum Sayfası
+6. Visual Studio >> "Şifremi Unuttum" Kutucuğuna Tıklanarak "Şifremi Unuttum Sayfası"na Geçilmesi
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c9bd9647-b5ee-465f-ab4e-f4d2e1c42cba)
 
