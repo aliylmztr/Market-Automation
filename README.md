@@ -201,7 +201,11 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3e8b0f84-3ce6-4281-b980-e8478605b258)
 
-38. Visual Studio >> "Hesap Makinesi" Bölümünün Kullanımı Örneği
+38. Visual Studio >> "Kamera Kapat" Butonuna Basılarak Kameranın Kapatılması
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/ed2b23eb-dbf4-423d-9947-7fb01c3ca683)
+
+39. Visual Studio >> "Hesap Makinesi" Bölümünün Kullanımı Örneği
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c140859f-d8b9-4d64-be83-95e5b6fcdd68)
 
@@ -210,6 +214,15 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/efbf9a78-db6c-4fde-b447-182ff9b09268)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f35848c6-2a00-4947-b259-4b555fe9cc35)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/77f7c046-92e8-425d-b6d4-559bf91218c3)
+
+40. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "KasiyerPanel" Sayfasına Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/286ae332-4a8c-4b60-84c4-ed0cbe0d826c)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1c24276e-631f-48a1-a650-e10d2a206224)
+
 
 
 
