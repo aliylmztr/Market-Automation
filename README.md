@@ -189,8 +189,18 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b0a602d3-4549-4dba-a915-759a8f7103fb)
 
-35. Visual Studio >> "Et Ürünleri Paneli Butonu"na Basılarak "EtUrunleriPanel" Sayfasına Geçilmesi
+35. Visual Studio >> "Meyve Sebze Paneli Butonu"na Basılarak "MeyveSebzePanel" Sayfasına Geçilmesi
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/482fc655-7b2d-488a-ac3e-1f88f085200e)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/adc82f3b-414a-444c-afdb-97802177d1cb)
+
+36. Visual Studio >> "QR Kod ile Ürünü Okut" Bölümündeki "Kamera Seç" ComboBox'undan Bilgisayar Kamerasının Seçilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/99853273-f49f-4b5b-b9bb-10bdcc81abfd)
+
+37. Visual Studio >> "Kamera Aç" Butonuna Basılarak Açılan Kameraya Ürün QR Kodunun Okutulması
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3e8b0f84-3ce6-4281-b980-e8478605b258)
+
+
 
 
