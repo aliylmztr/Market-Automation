@@ -123,7 +123,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/20f4ef1e-073e-4673-abd9-6695d083b4d7)
 
-24. Visual Studio >> "Ürün Paneli Butonu"na Basılarak "UrunPanel" Sayafasına Geçilmesi
+24. Visual Studio >> "Ürün Paneli Butonu"na Basılarak "UrunPanel" Sayfasına Geçilmesi
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1bd83ed9-fc64-491f-9579-1a9243fd9a64)
 
@@ -177,8 +177,20 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3fdb9ee4-52f5-40c0-8dea-b697898db45d)
 
+33. Visual Studio >> Kasiyer Girişi => Yanlış/Eksik Kullanıcı Adı veya Şifresi ile Başarısız Giriş Denemeleri ve Alınan Uyarı Mesajları
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/4280b51e-a567-4802-a127-cd5a78051efe)
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/8befb4a4-a239-40b9-b586-64676472b71c)
 
+34. Visual Studio >> Kasiyer Girişi => Doğru Kullanıcı Adı ve Şifresi ile Başarılı Giriş Yapılarak "KasiyerPanel" Sayfasına Geçilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c31def1a-45d8-417b-adac-e85f4a19f0fa)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b0a602d3-4549-4dba-a915-759a8f7103fb)
+
+35. Visual Studio >> "Et Ürünleri Paneli Butonu"na Basılarak "EtUrunleriPanel" Sayfasına Geçilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/482fc655-7b2d-488a-ac3e-1f88f085200e)
 
 
