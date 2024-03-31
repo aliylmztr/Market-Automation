@@ -129,7 +129,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/9a456951-09a9-4941-9a44-acdf7e096c00)
 
-25. Visual Studio >> İlgili Bölümler Doldurulduktan Sonra "Kayıt Ekle" Butonuna Basılarak "UrunıPanel"e Yeni Kayıt Eklenmesi
+25. Visual Studio >> İlgili Bölümler Doldurulduktan Sonra "Kayıt Ekle" Butonuna Basılarak "UrunPanel"e Yeni Kayıt Eklenmesi
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/a9056a7a-5876-43c2-b7ac-6abe0d021c42)
 
