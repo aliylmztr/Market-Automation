@@ -161,7 +161,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/45f4c308-c24d-4cfd-b1d7-090b51345202)
 
-![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/4ed52f6b-5316-4a26-93c9-65008e40df81)
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/15a0e2b1-9ace-4f57-a151-72cbccaf0e03)
 
 30. Microsoft SQL Server Management Studio >> "urun" Tablosunun Güncel Durumu
 
