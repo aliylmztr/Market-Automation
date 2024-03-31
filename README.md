@@ -201,6 +201,17 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3e8b0f84-3ce6-4281-b980-e8478605b258)
 
+38. Visual Studio >> "Hesap Makinesi" Bölümünün Kullanımı Örneği
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c140859f-d8b9-4d64-be83-95e5b6fcdd68)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/bb4ca478-02ff-45dd-94b0-6e8487bf95d9)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/efbf9a78-db6c-4fde-b447-182ff9b09268)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f35848c6-2a00-4947-b259-4b555fe9cc35)
+
+
 
 
 
