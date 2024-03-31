@@ -25,17 +25,17 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/e02bebc4-2a55-4c77-9672-2748b7b8957f)
 
-6. Visual Studio >> "Şifremi Unuttum" Kutucuğuna Tıklanarak "Şifremi Unuttum Sayfası"na Geçilmesi
+6. Visual Studio >> "Şifremi Unuttum" Kutucuğuna Tıklanarak "SifreDegistirme" Sayfasına Geçilmesi
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c9bd9647-b5ee-465f-ab4e-f4d2e1c42cba)
 
-7. Visual Studio >> Şifremi Unuttum Sayfası -> "Güvenlik Sorusu Alanı"nın Doldurulması ve Sorgula Butonuna Basılarak "Mail Alanı" Bölümüne Geçilmesi
+7. Visual Studio >> SifreDegistirme Sayfası -> "Güvenlik Sorusu Alanı"nın Doldurulması ve Sorgula Butonuna Basılarak "Mail Alanı" Bölümüne Geçilmesi
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1d8f42a3-c4ac-4879-afc9-1f586a135116)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/c9259af8-50e9-480a-87e2-53b939f06465)
 
-8. Visual Studio >> Şifremi Unuttum Sayfası -> Mail Alanındaki "Email Adresi" Bilgisinin Girilmesi ve "Doğrulama Kodu Gönder" Butonuna Basılarak Bilgilendirme Mesajının Alınması
+8. Visual Studio >> SifreDegistirme Sayfası -> Mail Alanındaki "Email Adresi" Bilgisinin Girilmesi ve "Doğrulama Kodu Gönder" Butonuna Basılarak Bilgilendirme Mesajının Alınması
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/6c31a371-4463-4823-b93b-a88fe56bd81e)
 
