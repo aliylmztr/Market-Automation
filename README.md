@@ -223,7 +223,47 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1c24276e-631f-48a1-a650-e10d2a206224)
 
+41. Visual Studio >> "Menü" Bölümündeki "Et Ürünleri Paneli Butonu"na Tıklanarak "EtUrunleriPanel" Sayfasına Doğrudan Geçilebilir ("KasiyerPanel" Sayfasındaki "Et Ürünleri Paneli Butonu"na Basılarak da "EtUrunleriPanel" Sayfasına Geçilebilir)
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/4a11dd9e-0936-472f-9128-b369af6da849)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/83fb34c0-c153-4f38-9da0-b07d986885a0)
+
+42. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "KasiyerPanel" Sayfasına Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/ab3da5e3-a393-4a7e-b998-51318a10e3dd)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1f41ecd7-8c98-4fd0-8c5a-291755370dd6)
+
+43. Visual Studio >> "Menü" Bölümündeki "Süt Ürünleri Paneli Butonu"na Tıklanarak "SutUrunleriPanel" Sayfasına Doğrudan Geçilebilir ("KasiyerPanel" Sayfasındaki "Süt Ürünleri Paneli Butonu"na Basılarak da "SutUrunleriPanel" Sayfasına Geçilebilir)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/21b09b8a-ae2a-4e7d-85c5-43359c0986ed)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/95c3aaab-f956-4303-ad0d-80574c3d901b)
+
+44. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "KasiyerPanel" Sayfasına Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/411d3995-b22b-4bf7-a374-4988609998c5)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f1bb968d-24a2-4863-a42b-6e22666714c8)
+
+45. Visual Studio >> "Menü" Bölümündeki "Baklagil Paneli Butonu"na Tıklanarak "BaklagilPanel" Sayfasına Doğrudan Geçilebilir ("KasiyerPanel" Sayfasındaki "Baklagil Paneli Butonu"na Basılarak da "BaklagilPanel" Sayfasına Geçilebilir)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3eb6122b-f3ab-49ba-93fe-098a1232113a)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/e476c36c-181d-4458-9e68-4d583f4f0f70)
+
+46. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "KasiyerPanel" Sayfasına Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1e78a907-168c-4f1a-92dc-2e12c01790de)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/d374b46d-6077-4792-be55-8221123e54fa)
+
+47. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "Giriş Sayfası"na Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b92ed22d-b65b-4138-b784-88ae3b613e0d)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/6c72ba2a-f9f4-4e0b-b884-de238456ac6e)
 
 
 
