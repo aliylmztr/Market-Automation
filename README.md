@@ -95,7 +95,7 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/d5f0d9c4-957f-4c8b-a50d-73b1f983b455)
 
-19. Visual Studio >> İstenilen Veride Güncellenmek İstenen Bölümlerin Değiştirilmesi ve "Kayıt Güncelle" Butonuna Basılarak Kayıt Güncellemesinin Yapılması
+19. Visual Studio >> Seçilen Veride Güncellenmek İstenen Bölümlerin Değiştirilmesi ve "Kayıt Güncelle" Butonuna Basılarak Kayıt Güncellemesinin Yapılması
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/76d79ab4-9033-4b92-8566-98fc86bd96ab)
 
@@ -117,5 +117,47 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/40de3aee-9a94-4163-bc02-6fc5eb373131)
 
-23. 
+23. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "AdminPanel" Sayfasına Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/76de520c-9fe2-4156-a9f2-cd242c6948b0)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/20f4ef1e-073e-4673-abd9-6695d083b4d7)
+
+24. Visual Studio >> "Ürün Paneli Butonu"na Basılarak "UrunPanel" Sayafasına Geçilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1bd83ed9-fc64-491f-9579-1a9243fd9a64)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/9a456951-09a9-4941-9a44-acdf7e096c00)
+
+25. Visual Studio >> İlgili Bölümler Doldurulduktan Sonra "Kayıt Ekle" Butonuna Basılarak "UrunıPanel"e Yeni Kayıt Eklenmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/a9056a7a-5876-43c2-b7ac-6abe0d021c42)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b3033e77-968a-4f0a-b737-f50ec1d300a5)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/d576979b-a85c-4800-9333-1fd420a9a233)
+
+26. Microsoft SQL Server Management Studio >> "urun" Tablosunun Güncel Durumu
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/6461c137-bbe7-442b-8dc0-fc860a413774)
+
+27. Visual Studio >> Seçilen Veride Güncellenmek İstenen Bölümlerin Değiştirilmesi ve "Kayıt Güncelle" Butonuna Basılarak Kayıt Güncellemesinin Yapılması
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/29f0b9b7-7c09-4f93-8efc-50f6ec94c58b)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/a5ee1a25-3b3e-41c3-8fa5-1496b4d3305f)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/60d40bed-457f-4503-953a-98af806cd9af)
+
+28. Microsoft SQL Server Management Studio >> "urun" Tablosunun Güncel Durumu
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/7b645ffa-0165-4a2f-95a7-c92bc8fb994a)
+
+
+
+
+
+
+
+
 
