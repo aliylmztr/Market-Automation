@@ -101,12 +101,21 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/ab72ad55-0a45-4739-8c54-e7870b480b93)
 
+20. Microsoft SQL Server Management Studio >> "loginTable" Tablosunun Güncel Durumu
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/42160bd1-9a5c-409c-b5bf-31e5e5ccab03)
 
+21. Visual Studio >> Silinmek İstenen Verinin Seçilmesi ve "Kayıt Sil" Butonuna Basılarak Silinmesi
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/90d584d5-effe-4cd0-b24f-771994259169)
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/8c00975e-949c-40d7-aebf-3c5af94146ee)
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f5fa2b7a-bf20-48f2-b339-e64ef88ee641)
 
+22. Microsoft SQL Server Management Studio >> "loginTable" Tablosunun Güncel Durumu
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/40de3aee-9a94-4163-bc02-6fc5eb373131)
 
+23. 
 
