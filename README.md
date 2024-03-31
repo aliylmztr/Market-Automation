@@ -269,7 +269,3 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b92ed22d-b65b-4138-b784-88ae3b613e0d)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/6c72ba2a-f9f4-4e0b-b884-de238456ac6e)
-
-
-
-
