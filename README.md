@@ -153,8 +153,29 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/7b645ffa-0165-4a2f-95a7-c92bc8fb994a)
 
+29. Visual Studio >> Silinmek İstenen Verinin Seçilmesi ve "Kayıt Sil" Butonuna Basılarak Silinmesi
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/182aa735-4486-47ad-a664-e1333be36467)
 
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/45f4c308-c24d-4cfd-b1d7-090b51345202)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/4ed52f6b-5316-4a26-93c9-65008e40df81)
+
+30. Microsoft SQL Server Management Studio >> "urun" Tablosunun Güncel Durumu
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/5c4ab187-7f2d-40ca-859d-854c76c8e0a1)
+
+31. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "AdminPanel" Sayfasına Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/b85e3ece-0d52-495c-a44c-31e6c89c3e46)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/de3f5b92-6fec-4ddd-8854-8f64ad5185bb)
+
+32. Visual Studio >> "Çıkış Yap" Butonuna Basılarak "Giriş Sayfası"na Geri Gidilmesi
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/84870a56-4767-44fc-adca-059d47083043)
+
+![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3fdb9ee4-52f5-40c0-8dea-b697898db45d)
 
 
 
