@@ -225,7 +225,8 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1c24276e-631f-48a1-a650-e10d2a206224)
 
-41. Visual Studio >> "Menü" Bölümündeki "Et Ürünleri Paneli Butonu"na Tıklanarak "EtUrunleriPanel" Sayfasına Doğrudan Geçilebilir ("KasiyerPanel" Sayfasındaki "Et Ürünleri Paneli Butonu"na Basılarak da "EtUrunleriPanel" Sayfasına Geçilebilir)
+41. Visual Studio >> "Menü" Bölümündeki "Et Ürünleri Paneli Butonu"na Tıklanarak "EtUrunleriPanel" Sayfasına Doğrudan Geçilebilir
+("KasiyerPanel" Sayfasındaki "Et Ürünleri Paneli Butonu"na Basılarak da "EtUrunleriPanel" Sayfasına Geçilebilir)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/4a11dd9e-0936-472f-9128-b369af6da849)
 
@@ -237,7 +238,8 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/1f41ecd7-8c98-4fd0-8c5a-291755370dd6)
 
-43. Visual Studio >> "Menü" Bölümündeki "Süt Ürünleri Paneli Butonu"na Tıklanarak "SutUrunleriPanel" Sayfasına Doğrudan Geçilebilir ("KasiyerPanel" Sayfasındaki "Süt Ürünleri Paneli Butonu"na Basılarak da "SutUrunleriPanel" Sayfasına Geçilebilir)
+43. Visual Studio >> "Menü" Bölümündeki "Süt Ürünleri Paneli Butonu"na Tıklanarak "SutUrunleriPanel" Sayfasına Doğrudan Geçilebilir
+("KasiyerPanel" Sayfasındaki "Süt Ürünleri Paneli Butonu"na Basılarak da "SutUrunleriPanel" Sayfasına Geçilebilir)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/21b09b8a-ae2a-4e7d-85c5-43359c0986ed)
 
@@ -249,7 +251,8 @@ Microsoft SQL Server, Ado.NET ve Windows Form App ile Bir Market Bilgi Sistemi (
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/f1bb968d-24a2-4863-a42b-6e22666714c8)
 
-45. Visual Studio >> "Menü" Bölümündeki "Baklagil Paneli Butonu"na Tıklanarak "BaklagilPanel" Sayfasına Doğrudan Geçilebilir ("KasiyerPanel" Sayfasındaki "Baklagil Paneli Butonu"na Basılarak da "BaklagilPanel" Sayfasına Geçilebilir)
+45. Visual Studio >> "Menü" Bölümündeki "Baklagil Paneli Butonu"na Tıklanarak "BaklagilPanel" Sayfasına Doğrudan Geçilebilir
+("KasiyerPanel" Sayfasındaki "Baklagil Paneli Butonu"na Basılarak da "BaklagilPanel" Sayfasına Geçilebilir)
 
 ![image](https://github.com/aliylmztr/Market-Automation/assets/123991935/3eb6122b-f3ab-49ba-93fe-098a1232113a)
 
